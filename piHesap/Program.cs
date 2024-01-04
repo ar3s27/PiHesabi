@@ -16,13 +16,9 @@ class Program
 
             // Çift indisli elemanları toplam, tek indisli elemanları çıkarma değişkenine ekleyin
             if (i % 2 == 0)
-            {
                 toplam += oranlar[i];
-            }
             else
-            {
                 cikarma += oranlar[i];
-            }
         }
         // Pi sayısını hesaplayın
         double sonuc = 4 * (toplam - cikarma);
