@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // Dizi oluştur
-        double[] oranlar = new double[10000];
+        double[] oranlar = new double[100000000];
         double toplam = 0;
         double cikarma = 0;
 

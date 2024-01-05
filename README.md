@@ -14,9 +14,9 @@ Programı çalıştırmak için Visual Studio veya başka bir C# geliştirme ort
 
 Pi Sayısı : 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679
 
-Bizim Ulaştığımız Sonuç : [Buraya Programın Çıktısı Gelecek]
+Bizim Ulaştığımız Sonuç : 3.14159264358449
 
-İkisi Arasındaki Fark : [Buraya Hesaplanan Fark Gelecek]
+İkisi Arasındaki Fark : 1,00053050289262E-08
 
 ## Lisans
 
