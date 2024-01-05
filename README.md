@@ -4,7 +4,7 @@ Bu basit C# programı, Leibniz serisi kullanarak pi sayısını hesaplamaktadır
 
 ## Nasıl Çalışır
 
-Program, 10,000 elemanlı bir dizi oluşturur ve her elemanına 1/(2*i+1) değerini atar. Daha sonra çift indisli ve tek indisli elemanları ayrı ayrı toplar ve çıkarır. Son olarak, bu iki değeri kullanarak pi sayısını hesaplar.
+Program, 100.000.000 elemanlı bir dizi oluşturur ve her elemanına 1/(2*i+1) değerini atar. Daha sonra çift indisli ve tek indisli elemanları ayrı ayrı toplar ve çıkarır. Son olarak, bu iki değeri kullanarak pi sayısını hesaplar.
 
 ## Kullanım
 
