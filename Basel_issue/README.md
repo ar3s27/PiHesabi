@@ -16,8 +16,8 @@ Python yüklü değilse, öncelikle [Python'un resmi web sitesinden](https://www
 
 Pi'nin yaklaşık değeri ve math modülünden elde edilen gerçek değer çıktı olarak görüntülenecektir.
 
-18.84955592153876
-9.869604401089358
+Program Çıktısı = 9.869603801083498
+Math.pi Değeri = 9.869604401089358
 
 
 ## Katkıda Bulunma
