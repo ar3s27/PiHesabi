@@ -10,4 +10,5 @@ pi_estimate = number * 6
 print(pi_estimate)
 
 # Print the actual value of π² using the math module
-print(math.pi ** 2)
+pi_spuare = math.pi ** 2
+print(pi_spuare)
