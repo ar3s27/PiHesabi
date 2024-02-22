@@ -1,5 +1,3 @@
-for i in range(40):
-    if i != 0:
-        1/i**2
-    else:
-        print("Cannot divide by zero")
+number = 0
+for i in range(1,40):
+        number += 1/i**2
