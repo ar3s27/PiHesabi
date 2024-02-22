@@ -17,9 +17,9 @@ If Python is not installed, first download and install it from the [official Pyt
 
 The approximate value of Pi and the real value obtained from the math module will be displayed as output.
 
-Program Output = 9.869603801083498
+Program Output = 3.141592558095893
 
-Value of Math.pi = 9.869604401089358
+Value of Math.pi = 3.141592653589793
 
 ## Contribution
 
@@ -54,9 +54,9 @@ Python yüklü değilse, öncelikle [Python'un resmi web sitesinden](https://www
 
 Pi'nin yaklaşık değeri ve math modülünden elde edilen gerçek değer çıktı olarak görüntülenecektir.
 
-Program Çıktısı = 9.869603801083498
+Program Çıktısı = 3.141592558095893
 
-Math.pi Değeri = 9.869604401089358
+Math.pi Değeri = 3.141592653589793
 
 
 ## Katkıda Bulunma
