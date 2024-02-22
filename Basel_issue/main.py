@@ -6,9 +6,8 @@ for i in range(1, 10000000):
     number += 1 / i ** 2
 
 # Multiply the sum by 6 to estimate π²
-pi_estimate = number * 6
+pi_estimate = (number * 6) ** 0.5
 print(pi_estimate)
 
 # Print the actual value of π² using the math module
-pi_spuare = math.pi ** 2
-print(pi_spuare)
+print(math.pi)
