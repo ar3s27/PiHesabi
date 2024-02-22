@@ -1,8 +1,8 @@
 import math
 toplam, cikarma = 0, 0
 dizi = []
-for i in range(1000000):
-    dizi[i]  = 1/(2 * i + 1)
+for i in range(100000000):
+    dizi.append(1/(2 * i + 1))
 
     if i % 2 == 0:
         toplam += dizi[i]
