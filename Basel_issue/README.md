@@ -1,22 +1,33 @@
-Pi Estimation Programı
-Bu Python programı, 1'den 10 milyona kadar olan sayıların karelerinin terslerini toplayarak π'nin yaklaşık değerini hesaplar.
+# Pi Estimate with Reciprocal Squares
 
-Kullanım
-pi_estimate.py dosyasını çalıştırın:
+Bu program, serinin 1/k^2 toplamını kullanarak π'nin yaklaşık değerini hesaplar.
 
-Copy code
-python pi_estimate.py
-Program, hesaplanan tahmini π² değerini ve math modülü kullanılarak hesaplanan gerçek π² değerini ekrana yazdıracaktır.
+## Kurulum
 
-Dosyalar
-pi_estimate.py: Python programı
-README.md: Bu README dosyası
-Gereksinimler
-Python 3.x
-math modülü (standart kütüphane içindedir)
-Notlar
-Programın çalışma süresi, kullanılan bilgisayarın işlem gücüne ve Python yürütücüsünün sürümüne bağlı olarak değişebilir.
-Sayıların büyük bir aralığını hesaplamak için bu programı kullanırken, bilgisayarınızın bellek ve işlemci kapasitesine dikkat edin.
-Lisans
-Bu program, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+Python yüklü değilse, öncelikle [Python'un resmi web sitesinden](https://www.python.org/) indirip kurun.
 
+## Nasıl Kullanılır
+
+1. Kodu bir metin düzenleyicide açın.
+2. Kodu bir Python ortamında çalıştırın.
+3. Çıktıyı gözlemleyin.
+
+## Örnek Çıktı
+
+Pi'nin yaklaşık değeri ve math modülünden elde edilen gerçek değer çıktı olarak görüntülenecektir.
+
+18.84955592153876
+9.869604401089358
+
+
+## Katkıda Bulunma
+
+1. Bu projeyi çatallayın (fork).
+2. Yeni özellikler ekleyin veya hata düzeltmeleri yapın.
+3. Çatalladığınız projeyi yeni bir dal (branch) oluşturarak geliştirin.
+4. Değişikliklerinizi commit edin (ayarlayın).
+5. Değişikliklerinizi çatalladığınız orijinal projeye gönderin (pull request).
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına başvurun.
